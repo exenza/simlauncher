@@ -2,7 +2,7 @@
 #Start the script and follow the instuctions.
 #Copy the DeviceID, for example: HID\VID_0EB7&PID_6204\7&210F0DBA&0&0000
 #Then set the DeviceID variable like this example:
-#$DeviceID="7&2FD628C0&0&0001"
+#$DeviceID="7&210F0DBA&0&0000"
 
 $DeviceID=""
 
