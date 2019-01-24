@@ -1,3 +1,3 @@
 @echo off
-SET path="C:\Users\Max\"
-powershell -WindowStyle Hidden -File %path%wheel.ps1
+REM Be sure you set the correct path to the .ps1 file...
+powershell -WindowStyle Hidden -File C:\Users\Max\wheel.ps1
